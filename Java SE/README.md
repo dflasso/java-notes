@@ -10,3 +10,5 @@ En este curso aprenderemos los fundamentos de Java Standard Edition: la sintaxis
 
 ## Indice
 1. [JDK](./1.%20JDK.md)
+
+2. [JavaDoc](./2.%20JavaDoc.md)
